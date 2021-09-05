@@ -1,2 +1,2 @@
-# Pokemon_Battle
+# Pokemon Battle
 Small Pokemon Battle Game in Python
